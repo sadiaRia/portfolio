@@ -11,7 +11,7 @@ const greeting = {
   subTitle:
     "A Software Developer having an experience of building Web and Mobile applications with Java / PHP / JavaScript / React.js / Node.js / React Native and other programming languages, libraries and frameworks.",
   resumeLink:
-    "https://drive.google.com/file/d/1wK_2tdGvDQtssTGI9aMvGS415yAq6Vx5/view?usp=sharing",
+    "https://drive.google.com/drive/u/0/folders/1oDPxkZ-IDTdnEAkilndvoO2wxB2oNu8I",
 };
 
 // Your Social Media Link
